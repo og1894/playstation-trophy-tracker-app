@@ -1,0 +1,12 @@
+{
+  "game" : {
+  "name":"gran turismo 7",
+  "platform":"ps5",
+  "trophies":{
+        "bronze": 10,
+        "silver": 5,
+        "gold": 2,
+        "platinum": 1
+  }
+ }
+}
