@@ -1,0 +1,16 @@
+{
+  "console" : [
+    {
+        "name": "PlayStation 3",
+        "image": "/ps3.jpeg"
+    },
+    {
+        "name": "PlayStation 4",
+        "image": "/ps4.jpg"
+    },
+    {
+        "name": "PlayStation 5",
+        "image": "/ps5.jpg"
+    }  
+      ]
+}

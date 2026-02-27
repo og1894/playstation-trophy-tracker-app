@@ -2,6 +2,7 @@
 
 import logger from "../utils/logger.js";
 import appStore from "../models/app-store.js";
+import consoleStore from "../models/consoles-store.js";
 
 const start = {
   createView(request, response) {
@@ -9,9 +10,10 @@ const start = {
     
     const viewData = {
       title: "PlayStation Trophy Tracker App",
-      info: appStore.getAppInfo()
+      info: appStore.getAppInfo(),
+      consoles: consoleStore.getConsolesInfo()
     };
-    
+    logger.info(viewData.consoles);
     response.render('start', viewData);   
   },
 };

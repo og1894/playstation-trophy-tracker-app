@@ -2,10 +2,32 @@
 
 <section class="ui center aligned middle aligned segment">
   
-  <h2>Assignment One Starter App</h2>
+  <h2>Welcome to the PlayStation Trophy Tracker App!</h2>
 
   <p>
-    You can use this start view (along with the matching start controller and start route) as the starting point for your "welcome" view (i.e. your app's homepage). Read the assignment spec to see what other views you should add.
+    This fan-made app allows you to track your PlayStation 
+    trophies and see how you stack up against your 
+    friends. You can view your trophy collection, 
+    compare it with others, and even see detailed 
+    information about each trophy (for now only
+    viewing games and their trophies is possible). Whether you're a 
+    casual gamer or a trophy hunter, this app is 
+    designed to enhance your gaming experience and 
+    help you achieve your trophy goals. 
+    Start tracking your trophies today and share 
+    your achievements with the gaming community!
   </p>
-
 </section>
+
+<div class="ui centered cards">
+  {{#each consoles}}
+  <div class="card">
+    <div class="image">
+      <img class="image" src="{{image}}" alt="{{name}}">
+    </div>
+    <div class="content">
+      <a class="header">{{name}}</a>
+    </div>
+  </div>
+  {{/each}}
+</div>
