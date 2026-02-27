@@ -2,6 +2,7 @@
   "games" : [
     {
       "name":"gran turismo 5",
+      "image": "/gt5.jpg",
       "platform":"ps3",
       "trophies":{
         "bronze": 10,
@@ -11,6 +12,7 @@
       },
       {
       "name":"the last of us",
+      "image": "/tlou.jpg",
       "platform":"ps3",
       "trophies":{
         "bronze": 15,
@@ -20,6 +22,7 @@
       },
       {
         "name":"ratchet and clank",
+        "image": "/ratchet.jpg",
         "platform":"ps3",
         "trophies":{
               "bronze": 12,

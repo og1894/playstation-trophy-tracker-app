@@ -2,6 +2,7 @@
   "games" : [
     {
       "name":"the last of us part 2",
+      "image": "/tlou2.png",
       "platform":"ps4",
       "trophies":{
         "bronze": 10,
@@ -11,6 +12,7 @@
       },
       {
       "name":"need for speed heat",
+      "image": "/nfs.jpg",
       "platform":"ps4",
       "trophies":{
         "bronze": 15,
@@ -20,6 +22,7 @@
       },
       {
         "name":"shadow of the tomb raider",
+        "image": "/tomb raider.jpg",
         "platform":"ps4",
         "trophies":{
               "bronze": 12,

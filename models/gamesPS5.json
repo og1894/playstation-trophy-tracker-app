@@ -2,6 +2,7 @@
   "games" : [
     {
       "name":"gran turismo 7",
+      "image": "/gt7.jpg",
       "platform":"ps5",
       "trophies":{
         "bronze": 10,
@@ -11,6 +12,7 @@
       },
       {
       "name":"horizon forbidden west",
+      "image": "/horizon.jpg",
       "platform":"ps5",
       "trophies":{
         "bronze": 15,
@@ -20,6 +22,7 @@
       },
       {
         "name":"spider man miles morales",
+        "image": "/spiderman mm.jpg",
         "platform":"ps5",
         "trophies":{
               "bronze": 12,
