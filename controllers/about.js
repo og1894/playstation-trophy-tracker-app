@@ -8,7 +8,7 @@ const about = {
     logger.info("About page loading!");
     
     const viewData = {
-      title: "PlayStation Trophy Tracker About",
+      title: "About The PlayStation Trophy Tracker App",
       aboutInfo: aboutStore.getAboutInfo()
     };
     

@@ -5,15 +5,15 @@ import gamesStore from "../models/gamesPS5-store.js";
 
 const gamesPS5 = {
   createView(request, response) {
-    logger.info("About page loading!");
+    logger.info("PS5 page loading!");
     
     const viewData = {
-      title: "PlayStation Trophy Tracker About",
+      title: "PlayStation Trophy Tracker PS5 Games",
       gamesInfo: gamesStore.getGamesInfo()
     };
     
     logger.info(viewData.gamesInfo);
-    response.render('about', viewData);
+    response.render('collectionsPS5', viewData);
   },
 };
 
