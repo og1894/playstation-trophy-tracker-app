@@ -5,8 +5,8 @@ import JsonStore from './json-store.js';
 
 const gameStore = {
 
-  store: new JsonStore('./models/gamesPS5.json', { games: {} }),
-  collection: 'games',
+  store: new JsonStore('./models/gamesPS5.json', { games5: {} }),
+  collection: 'games5',
 
 
   getGamesInfo() {
