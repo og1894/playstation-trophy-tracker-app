@@ -1,1 +1,2 @@
-this app is for tracking the trophies in different games for the playstation 4 and 5, it allows the user to input the games he has completed and show them off online.
+this app is for tracking the trophies in different games for the playstation 4 and 5, it allows the user to input the games he has completed and show them off online. (in theory, in practicice it just
+displays games collections based on console generation)
