@@ -32,12 +32,12 @@
       },
       {
         "name": "Ghost of yotei",
-        "image": "/yotei.jpg",
+        "image": "/ghost.jpg",
         "platform":"ps5",
         "trophies":{
-              "bronze": 10,
-              "silver": 5,
-              "gold": 2,
+              "bronze": 23,
+              "silver": 9,
+              "gold": 4,
               "platinum": 1}
       }
  ]

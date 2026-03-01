@@ -29,6 +29,26 @@
               "silver": 6,
               "gold": 4,
               "platinum": 1}
+      },
+      {
+        "name": "fallout 4",
+        "image": "/fallout4.jpg",
+        "platform":"ps4",
+        "trophies":{
+              "bronze": 33,
+              "silver": 12,
+              "gold": 6,
+              "platinum": 1}
+      },
+      {
+        "name": "cyberpunk 2077",
+        "image": "/cp77.jpg",
+        "platform":"ps4",
+        "trophies":{
+              "bronze": 20,
+              "silver": 10,
+              "gold": 5,
+              "platinum": 1}
       }
  ]
 }
