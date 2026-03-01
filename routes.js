@@ -1,3 +1,8 @@
+/*
+File: routes.js
+Description: This file defines the routes for the PlayStation Trophy Tracker App, mapping URL paths to their corresponding controller functions that will handle the requests and generate the appropriate views for the user.
+*/
+
 'use strict';
 
 import express from 'express';

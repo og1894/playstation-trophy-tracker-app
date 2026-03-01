@@ -1,3 +1,7 @@
+/*
+General styles for the web app
+*/
+
 html {
   border: 90%;
   font-size: 16px;
@@ -25,7 +29,10 @@ h2, p{
   text-decoration: underline;
 }
 
-/* About page styles */
+/*
+About page styles for the author profile section, which includes the profile picture, name, tagline, bio, and contact information.
+*/
+
 .about-container {
   max-width: 980px;
   margin: 1.5rem auto;

@@ -1,9 +1,14 @@
+/*
+File: models/gamesPS5-store.js
+Description: Model for the information related to the different PlayStation 5 games, which will be displayed on the Start page of the PlayStation Trophy Tracker App.
+*/
+
 'use strict';
 
 import logger from '../utils/logger.js';
 import JsonStore from './json-store.js';
 
-const gameStore = {
+const gameStore = {     // Defining the gameStore object that will contain methods related to the information about the different PlayStation 5 games.
 
   store: new JsonStore('./models/gamesPS5.json', { games5: {} }),
   collection: 'games5',
@@ -15,4 +20,4 @@ const gameStore = {
 
 };
 
-export default gameStore;
+export default gameStore;      // Exporting the gameStore model to be used in other parts of the application, such as controllers.
