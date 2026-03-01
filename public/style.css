@@ -13,7 +13,8 @@ body {
   background-image: url('/astro-bot.jpg');
   background-size: cover;
   background-position: center;
-  background-color: rgb(12, 4, 126);
+  background-repeat: no-repeat;
+  background-color: #d39c75;
 }
 
 h2{
