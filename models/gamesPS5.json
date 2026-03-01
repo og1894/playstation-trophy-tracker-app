@@ -1,9 +1,9 @@
 {
   "games5" : [
     {
-      "name":"gran turismo 7",
+      "name":"Gran Turismo 7",
       "image": "/gt7.jpg",
-      "platform":"ps5",
+      "platform":"PS5",
       "trophies":{
         "bronze": 10,
         "silver": 5,
@@ -11,9 +11,9 @@
         "platinum": 1}
       },
       {
-      "name":"horizon forbidden west",
+      "name":"Horizon Forbidden West",
       "image": "/horizon.jpg",
-      "platform":"ps5",
+      "platform":"PS5",
       "trophies":{
         "bronze": 15,
         "silver": 8,
@@ -21,9 +21,9 @@
         "platinum": 1}
       },
       {
-        "name":"spider man miles morales",
+        "name":"Spider Man Miles Morales",
         "image": "/spiderman mm.jpg",
-        "platform":"ps5",
+        "platform":"PS5",
         "trophies":{
               "bronze": 12,
               "silver": 6,
@@ -31,9 +31,9 @@
               "platinum": 1}
       },
       {
-        "name": "Ghost of yotei",
+        "name": "Ghost of Yotei",
         "image": "/ghost.jpg",
-        "platform":"ps5",
+        "platform":"PS5",
         "trophies":{
               "bronze": 23,
               "silver": 9,

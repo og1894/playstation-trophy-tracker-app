@@ -1,9 +1,9 @@
 {
   "games4" : [
     {
-      "name":"the last of us part 2",
+      "name":"The Last of Us Part 2",
       "image": "/tlou2.png",
-      "platform":"ps4",
+      "platform":"PS4",
       "trophies":{
         "bronze": 10,
         "silver": 5,
@@ -11,9 +11,9 @@
         "platinum": 1}
       },
       {
-      "name":"need for speed heat",
+      "name":"Need for Speed Heat",
       "image": "/nfs.jpg",
-      "platform":"ps4",
+      "platform":"PS4",
       "trophies":{
         "bronze": 15,
         "silver": 8,
@@ -21,9 +21,9 @@
         "platinum": 1}
       },
       {
-        "name":"shadow of the tomb raider",
+        "name":"Shadow of the Tomb Raider",
         "image": "/tomb raider.jpg",
-        "platform":"ps4",
+        "platform":"PS4",
         "trophies":{
               "bronze": 12,
               "silver": 6,
@@ -31,9 +31,9 @@
               "platinum": 1}
       },
       {
-        "name": "fallout 4",
+        "name": "Fallout 4",
         "image": "/fallout4.jpg",
-        "platform":"ps4",
+        "platform":"PS4",
         "trophies":{
               "bronze": 33,
               "silver": 12,
@@ -41,9 +41,9 @@
               "platinum": 1}
       },
       {
-        "name": "cyberpunk 2077",
+        "name": "Cyberpunk 2077",
         "image": "/cp77.jpg",
-        "platform":"ps4",
+        "platform":"PS4",
         "trophies":{
               "bronze": 20,
               "silver": 10,

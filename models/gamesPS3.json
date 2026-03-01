@@ -1,9 +1,9 @@
 {
   "games3" : [
     {
-      "name":"gran turismo 5",
+      "name":"Gran Turismo 5",
       "image": "/gt5.jpg",
-      "platform":"ps3",
+      "platform":"PS3",
       "trophies":{
         "bronze": 10,
         "silver": 5,
@@ -11,9 +11,9 @@
         "platinum": 1}
       },
       {
-      "name":"the last of us",
+      "name":"The Last of Us",
       "image": "/tlou.jpg",
-      "platform":"ps3",
+      "platform":"PS3",
       "trophies":{
         "bronze": 15,
         "silver": 8,
@@ -21,9 +21,9 @@
         "platinum": 1}
       },
       {
-        "name":"ratchet and clank",
+        "name":"Ratchet and Clank",
         "image": "/ratchet.jpg",
-        "platform":"ps3",
+        "platform":"PS3",
         "trophies":{
               "bronze": 12,
               "silver": 6,
